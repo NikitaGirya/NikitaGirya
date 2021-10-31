@@ -16,5 +16,5 @@ Engineer and aspiring data analyst. Open to job offers 💼
 ### 🔍 Contacts
 
 * <img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" height="20" /> nikitagirya@bk.ru
-* <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" height="20" /> @nikitagirya
+* <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" height="20" /> [@nikitagirya](https://t.me/nikitagirya)
 
