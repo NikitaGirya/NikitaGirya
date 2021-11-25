@@ -11,7 +11,7 @@ Engineer and aspiring data analyst. Open to job offers 💼
 * <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" height="20" /> PostgreSQL / <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" height="20" /> MySQL
 * <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/msexcel_93695.png" height="20" /> Microsoft Excel
 * <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" height="20" /> Microsoft Power BI / <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Desktop-Logo.svg" height="20" /> Tableau
-* <img src="https://cdn.icon-icons.com/icons2/1804/PNG/512/iconfinder-504-math-formula-math-formula-education-4212910_114969.png" height="20" /> Statistics and probability theory / <img src="https://cdn.icon-icons.com/icons2/928/PNG/512/a-b-testing_icon-icons.com_72217.png" height="20" /> A/B testing
+* <img src="https://cdn.icon-icons.com/icons2/1804/PNG/512/iconfinder-504-math-formula-math-formula-education-4212910_114969.png" height="20" /> Statistics and probability theory / <img src="https://cdn.icon-icons.com/icons2/3184/PNG/512/product_icon_194102.png" height="20" /> Product analytics / <img src="https://cdn.icon-icons.com/icons2/928/PNG/512/a-b-testing_icon-icons.com_72217.png" height="20" /> A/B testing
 
 
 ### 🔍 Contacts
