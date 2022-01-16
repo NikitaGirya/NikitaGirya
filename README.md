@@ -1,6 +1,8 @@
 ### Hi there 👋 My name is Nikita Girya, 25 y.o. 
 #### 🚩  Russia, Moscow
-Engineer–analyst  **Open to job offers** 💼
+
+Engineer–analyst  
+**Open to job offers** 💼
 
 ### 🛠  Technologies and tools
 
