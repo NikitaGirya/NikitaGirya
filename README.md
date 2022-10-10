@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nikita Girya, 25 y.o. 
+### Hi there 👋 My name is Nikita Girya, 26 y.o. 
 #### 🚩  Russia, Moscow
 
 Analyst
