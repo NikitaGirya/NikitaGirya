@@ -1,7 +1,6 @@
-### Hi there 👋 My name is Nikita Girya, 26 y.o. 
-#### 🚩  Russia, Moscow
+### 🚩 Russia, Moscow
 
-Analyst
+Data Analyst / BI-analyst
 
 ### 🛠  Technologies and tools
 
