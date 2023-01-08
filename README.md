@@ -4,7 +4,7 @@ Data Analyst / BI-analyst
 
 ### 🛠  Technologies and tools
 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" height="20" />        Pandas / <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" height="20" /> NumPy / <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" height="20" /> SciPy
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" height="20" />        Pandas / <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" height="20" /> NumPy / <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" height="15" /> SciPy
 * <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="20" /> Plotly / <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="20" /> Seaborn / <img src="https://pbs.twimg.com/profile_images/1273414276661862400/t6pChQJv.png" height="20" /> Matplotlib
 * <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" height="20" /> Requests / <img src="https://funthon.files.wordpress.com/2017/05/bs.png" height="20" /> Beautiful Soup
 *  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/cf746430-7c65-4f24-a55c-f274153c830b/dec7wfw-02e0ee65-f443-4321-acd5-d1f1ef6f081e.png" height="20" /> Jupyter Notebook / <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" height="20" /> pgAdmin
