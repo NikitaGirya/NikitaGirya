@@ -2,7 +2,7 @@
 
 Data Analyst / BI-analyst
 
-### 🛠  Technologies and tools
+### 🛠 Technologies and tools
 
 * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" height="15" />        Pandas / <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" height="15" /> NumPy / <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy-logo-300.png" height="15" /> SciPy
 * <img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" height="15" /> Plotly / <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" height="15" /> Seaborn / <img src="https://pbs.twimg.com/profile_images/1273414276661862400/t6pChQJv.png" height="15" /> Matplotlib
@@ -18,4 +18,3 @@ Data Analyst / BI-analyst
 
 * <img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" height="15" /> nikitagirya@bk.ru
 * <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" height="15" /> [@nikitagirya](https://t.me/nikitagirya)
-
