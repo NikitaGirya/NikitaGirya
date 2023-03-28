@@ -1,6 +1,6 @@
 #### 🛠 Technologies and tools
 * Python for data analysis and visualization 
-* SQL for databases 
+* SQL to get data
 * Business Intelligence — principally Power BI, but also can make dashboards in Tableau 
 * Mathematical statistics (value distributions and A/B testing)
 * Product, client metrics and unit economics
