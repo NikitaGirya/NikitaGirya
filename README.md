@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=35&lines=%F0%9F%94%A8+Technologies+%26+Tools)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%94%A8+Technologies+%26+Tools)](https://git.io/typing-svg) <br/>
 ✔ <font face = "Fira Code"> Python for data analysis and visualization </font> <br/> 
 ✔ SQL to get data <br/>
 ✔ Business Intelligence — principally Power BI, but also can make dashboards in Tableau or Superset <br/>
@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=35&lines=%F0%9F%94%8D+Contacts)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%94%8D+Contacts)](https://git.io/typing-svg) <br/>
 📧 nikitagirya@bk.ru <br/>
 ☎ [nikitagirya](https://t.me/nikitagirya)
 
