@@ -1,10 +1,13 @@
-#### 🛠 Technologies and tools
-* Python for data analysis and visualization 
-* SQL to get data
-* Business Intelligence — principally Power BI, but also can make dashboards in Tableau 
-* Mathematical statistics (value distributions and A/B testing)
-* Product, client metrics and unit economics
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=35&lines=%F0%9F%94%A8+Technologies+%26+Tools)](https://git.io/typing-svg) <br/>
+✔ Python for data analysis and visualization <br/>
+✔ SQL to get data <br/>
+✔ Business Intelligence — principally Power BI, but also can make dashboards in Tableau or Superset <br/>
+✔ Mathematical statistics (value distributions and A/B testing) <br/>
+✔ Product, client metrics and unit economics <br/>
 
-#### 🔍 Contacts
-<img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" height="12" /> nikitagirya@bk.ru <br/>
-<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" height="12" /> [nikitagirya](https://t.me/nikitagirya)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=35&lines=%F0%9F%94%8D+Contacts)](https://git.io/typing-svg) <br/>
+📧 nikitagirya@bk.ru <br/>
+☎ [nikitagirya](https://t.me/nikitagirya)
+
