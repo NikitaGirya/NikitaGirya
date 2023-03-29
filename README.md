@@ -24,5 +24,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%94%8D+Contacts)](https://git.io/typing-svg) <br/>
 📧 nikitagirya@bk.ru <br/>
 ☎ [nikitagirya](https://t.me/nikitagirya)
-
-<br/>
