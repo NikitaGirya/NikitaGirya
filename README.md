@@ -16,8 +16,8 @@
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=35&lines=%F0%9F%9B%A0+Used+technologies)](https://git.io/typing-svg)
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" **alt="Apache Airflow" width="50" height="50"/>
+![Git](https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg)
+![Apache Airflow](https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg)
 
 <br/>
 <br/>
