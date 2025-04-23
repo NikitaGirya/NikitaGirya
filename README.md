@@ -15,8 +15,8 @@
 <br/>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="65" height="65"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="Git" **alt="Git" width="80" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg" title="PostgreSQL" **alt="PostgreSQL" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21~bgwhite.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
   <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/clickhouse.svg" title="ClickHouse" **alt="ClickHouse" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
