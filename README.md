@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="65" height="65"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21~bgwhite.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
   <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/clickhouse.svg" title="ClickHouse" **alt="ClickHouse" width="100" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="65" height="65"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" **alt="Apache Airflow" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="65" height="65"/>&nbsp;
