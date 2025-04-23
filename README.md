@@ -8,7 +8,7 @@
 ✔ Developing and implementing processes for data quality control at all stages of processing <br/>
 ✔ Python for data analysis and visualization <br/> 
 ✔ Apache Airflow for automating ETL processes and orchestrating data workflows <br/> 
-✔ Using tools for monitoring and alerting data quality issues <br/>
+✔ Using Grafana for monitoring and alerting data quality issues <br/>
 
 ✔ Business Intelligence — principally Power BI, but also can make dashboards in Tableau or Superset <br/>
 ✔ Mathematical statistics (value distributions and A/B testing) <br/>
