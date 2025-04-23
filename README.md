@@ -18,5 +18,6 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" title="Jupyter" **alt="Jupyter" width="100" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" title="Apache Airflow" **alt="Apache Airflow" width="100" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" title="Power BI" **alt="Power BI" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" title="Grafana" **alt="Grafana" width="100" height="50"/>&nbsp;
 </div>
