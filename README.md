@@ -3,7 +3,6 @@
 ✔ Design data models for business needs (Data Vault, 3NF etc.) <br/>
 ✔ Python for data analysis and visualization <br/> 
 ✔ Apache Airflow for automating ETL processes and orchestrating data workflows <br/> 
-✔ Ensuring data quality through monitoring, validation, and data cleansing <br/>
 ✔ Developing and implementing processes for data quality control at all stages of processing <br/>
 ✔ Using tools for monitoring and alerting data quality issues <br/>
 ✔ Optimizing query performance and data processing workflows <br/>
