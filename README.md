@@ -13,6 +13,8 @@
 ✔ Mathematical statistics (value distributions and A/B testing) <br/>
 ✔ Product, client metrics and unit economics <br/>
 
+<br/>
+
 <div>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL" **alt="PostgreSQL" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
