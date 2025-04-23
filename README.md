@@ -20,6 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" **alt="Apache Airflow" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="65" height="65"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" title="Grafana" **alt="Grafana" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="65" height="65"/>&nbsp;
 </div>
