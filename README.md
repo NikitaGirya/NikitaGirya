@@ -13,6 +13,7 @@
 ✔ Product, client metrics and unit economics <br/>
 
 <br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&lines=%F0%9F%9B%A0+Used+technologies)](https://git.io/typing-svg)
 <div>
@@ -33,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br/>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&lines=%F0%9F%93%A3+Contacts)](https://git.io/typing-svg) <br/>
