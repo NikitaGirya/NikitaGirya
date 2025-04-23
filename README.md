@@ -12,6 +12,8 @@
 ✔ Mathematical statistics (value distributions and A/B testing) <br/>
 ✔ Product, client metrics and unit economics <br/>
 
+<br/>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="65" height="65"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="65" height="65"/>&nbsp;
