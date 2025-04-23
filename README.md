@@ -15,13 +15,13 @@
 <br/>
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="Git" **alt="Git" width="80" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg" title="PostgreSQL" **alt="PostgreSQL" width="100" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21~bgwhite.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="Git" **alt="Git" width="100" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL" **alt="PostgreSQL" width="100" height="50"/>&nbsp;
+  <img src="hhttps://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
   <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/clickhouse.svg" title="ClickHouse" **alt="ClickHouse" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" **alt="Apache Airflow" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="65" height="65"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="65" height="65"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" title="Jupyter" **alt="Jupyter" width="100" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" title="Apache Airflow" **alt="Apache Airflow" width="100" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" title="Grafana" **alt="Grafana" width="100" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" title="Docker" **alt="Docker" width="100" height="50"/>&nbsp;
 </div>
