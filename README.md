@@ -15,11 +15,10 @@
 <br/>
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" title="Git" **alt="Git" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
   <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/clickhouse.svg" title="ClickHouse" **alt="ClickHouse" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" title="Jupyter" **alt="Jupyter" width="100" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" title="Apache Airflow" **alt="Apache Airflow" width="100" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="Apache Airflow" **alt="Apache Airflow" width="100" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" title="Grafana" **alt="Grafana" width="100" height="50"/>&nbsp;
 </div>
