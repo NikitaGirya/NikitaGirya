@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=35&lines=%F0%9F%95%B5%F0%9F%8F%BC+Skills)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=35&lines=%F0%9F%9B%A0+Skills+%26+Used+technologies)](https://git.io/typing-svg) <br/>
 ✔ SQL to get data and prototyping data layers (ODS/DDS/DM) <br/>
 ✔ Design data models for business needs (Data Vault, 3NF etc.) <br/>
 ✔ Python for data analysis and visualization <br/> 
@@ -12,10 +12,6 @@
 ✔ Mathematical statistics (value distributions and A/B testing) <br/>
 ✔ Product, client metrics and unit economics <br/>
 
-<br/>
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=35&lines=%F0%9F%9B%A0+Used+technologies)](https://git.io/typing-svg)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Apache Airflow" **alt="Apache Airflow" width="75" height="75"/>&nbsp;
