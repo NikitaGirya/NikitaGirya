@@ -20,5 +20,4 @@
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" title="Jupyter" **alt="Jupyter" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" title="Power BI" **alt="Power BI" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" title="Grafana" **alt="Grafana" width="100" height="50"/>&nbsp;
-  <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/victoriametrics.svg" title="VM" **alt="VM" width="100" height="50"/>&nbsp;
 </div>
