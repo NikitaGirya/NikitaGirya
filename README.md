@@ -1,36 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%94%A8+Used+technologies+%26+tools)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=30&lines=Skills)](https://git.io/typing-svg) <br/>
 ✔ SQL to get data and prototyping data layers (ODS/DDS/DM) <br/>
 ✔ Design data models for business needs (Data Vault, 3NF etc.) <br/>
 ✔ Python for data analysis and visualization <br/> 
+✔ Apache Airflow for automating ETL processes and orchestrating data workflows <br/> 
+✔ Ensuring data quality through monitoring, validation, and data cleansing <br/>
+✔ Developing and implementing processes for data quality control at all stages of processing <br/>
+✔ Using tools for monitoring and alerting data quality issues <br/>
+✔ Optimizing query performance and data processing workflows <br/>
+✔ Creating and maintaining documentation for data architecture and processing workflows <br/>
 ✔ Business Intelligence — principally Power BI, but also can make dashboards in Tableau or Superset <br/>
 ✔ Mathematical statistics (value distributions and A/B testing) <br/>
 ✔ Product, client metrics and unit economics <br/>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&lines=Used+technologies)](https://git.io/typing-svg)
+
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%91%93+Learned+technologies)](https://git.io/typing-svg)
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5F5D5D&vCenter=true&width=435&height=30&lines=%F0%9F%94%8D+Contacts)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5D5D&repeat=false&width=435&height=30&lines=Contacts)](https://git.io/typing-svg) <br/>
 📧 nikitagirya@bk.ru <br/>
 ☎ [nikitagirya](https://t.me/nikitagirya)
