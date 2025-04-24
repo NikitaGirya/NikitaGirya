@@ -17,7 +17,7 @@
 <br/>
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL" **alt="PostgreSQL" width="90" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL" **alt="PostgreSQL" width="90" height="45"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/greenplum/greenplum-ar21.svg" title="Greenplum" **alt="Greenplum" width="100" height="50"/>&nbsp;
   <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/clickhouse.svg" title="ClickHouse" **alt="ClickHouse" width="100" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python" **alt="Python" width="100" height="50"/>&nbsp;
